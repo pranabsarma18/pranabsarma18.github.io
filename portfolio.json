@@ -1,224 +1,230 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Pranab Sarma",
+  "label": "AI Engineer | Web Developer",
+  "image_path": "portfolio_media/profile.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "pranavirat12@gmail.com",
+    "phone": "+91 8473878216",
+    "location": "Kokrajhar, Assam, India"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-  "base_url": "127.0.0.1:5500",
+  "summary": "Aspiring AI Engineer and Web Developer with a strong foundation in Machine Learning, Deep Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). Experienced in building AI-powered applications, intelligent assistants, and scalable web solutions using Python, OpenAI, Django, Flask, TensorFlow, PyTorch, SQL, JavaScript, and Docker. Passionate about developing reliable, user-centric software by combining modern AI technologies with full-stack web development to solve real-world problems.",  "base_url": "https://pranabsarma.me",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/pranabsarma18",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "GitHub",
+      "url": "https://github.com/pranabsarma18",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Directorate of Technical Education, Assam",
+      "position": "Junior Technical Assistant",
+      "url": "https://dte.assam.gov.in/",
+      "start_date": "06/2023",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Managing administrative operations while leading technical initiatives related to the institute's web portal and digital services.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Manage and maintain the institute's official web portal.",
+        "Coordinate Student Cell operations and academic administration.",
+        "Digitize administrative workflows using technical solutions.",
+        "Support staff and students with IT-related services."
       ]
     },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
-      ]
-    }
+{
+  "company": "Indian Institute of Technology Madras",
+  "position": "Machine Learning Project Viva Examiner",
+  "url": "https://study.iitm.ac.in/",
+  "start_date": "07/2026",
+  "end_date": "Present",
+  "summary": "Evaluate Machine Learning Practice Projects for the IIT Madras BS Degree Program by assessing students' theoretical understanding, practical implementation, and problem-solving abilities across the end-to-end machine learning workflow.",
+  "highlights": [
+    "Conduct technical viva examinations for Machine Learning Practice Projects submitted by BS Degree students.",
+    "Evaluate students' understanding of data preprocessing, feature engineering, model development, optimization, evaluation metrics, and deployment concepts.",
+    "Assess project implementation, code quality, exploratory data analysis, and machine learning best practices through live discussions and demonstrations.",
+    "Review students' theoretical knowledge of machine learning algorithms, mathematical foundations, and practical problem-solving approaches.",
+    "Provide constructive technical feedback to help students improve their machine learning knowledge and project implementation skills."
+  ]
+}
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "AI Yoga Assistant (RAG + OpenAI)",
+      "summary": "Developed an AI-powered yoga assistant that leverages Retrieval-Augmented Generation (RAG) and OpenAI language models to provide accurate, context-aware guidance on yoga poses, breathing techniques, benefits, precautions, and personalized practice recommendations.",
+      "url": "https://github.com/pranabsarma18/yoga-assistant",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline for answering yoga-related questions from a custom knowledge base.",
+        "Integrated OpenAI language models to generate accurate, context-aware responses while minimizing hallucinations through retrieved context.",
+        "Implemented semantic search and vector-based document retrieval to improve the relevance of generated answers.",
+        "Developed a modular document ingestion, indexing, retrieval, and response generation pipeline for domain-specific question answering.",
+        "Designed and evaluated the system to improve retrieval quality and answer relevance for an enhanced user experience."
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
+      "images": []
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Smoker Status Prediction using Bio-Signals",
+      "summary": "Machine learning model that predicts smoking status using bio-signal data.",
+      "url": "https://github.com/pranabsarma18/mlzoomcamp_midterm",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Performed extensive data preprocessing and feature engineering.",
+        "Trained multiple machine learning models.",
+        "Compared models using appropriate evaluation metrics.",
+        "Built an end-to-end prediction pipeline."
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
-      ]
+      "images": []
+    },
+    {
+      "title": "Corn Leaf Disease Detection using Deep Learning",
+      "summary": "CNN-based deep learning model for automatic corn leaf disease identification.",
+      "url": "https://github.com/pranabsarma18/mlzoomcamp-capstone1",
+      "highlights": [
+        "Implemented Convolutional Neural Networks using TensorFlow.",
+        "Performed image preprocessing and augmentation.",
+        "Achieved accurate disease classification.",
+        "Converted the model for lightweight deployment."
+      ],
+      "images": []
+    },
+    {
+      "title": "Image Resize App",
+      "summary": "Web application for intelligent image resizing while maintaining image quality.",
+      "url": "https://github.com/pranabsarma18/image-resizer-app",
+      "highlights": [
+        "Developed using Flask.",
+        "Supports custom dimensions.",
+        "Maintains aspect ratio automatically."
+      ],
+      "images": []
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "organization": "Indian Institute of Technology Madras",
+      "position": "Teaching Assistant",
+      "url": "https://study.iitm.ac.in/",
+      "start_date": "09/2022",
+      "end_date": "11/2022",
+      "summary": "Supported students by mentoring them in Python programming.",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
+        "Conducted doubt-clearing sessions.",
+        "Reviewed programming assignments.",
+        "Helped students understand Python concepts."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Indian Institute of Technology Madras",
+      "location": "Chennai, India",
+      "url": "https://study.iitm.ac.in/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Diploma in Data Science"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "honors": [],
+      "gpa_cumulative": "9.43",
+      "gpa_major": "",
+      "graduation_date": "04/2023"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "Tezpur University",
+      "location": "Assam, India",
+      "url": "https://www.tezuniv.ac.in/",
+      "degrees": [
+        "M.Tech. in Electronics Design and Technology"
+      ],
+      "honors": [],
+      "gpa_cumulative": "7.4",
+      "gpa_major": "",
+      "graduation_date": "08/2021"
+    },
+    {
+      "institution": "Central Institute of Technology Kokrajhar",
+      "location": "Assam, India",
+      "url": "https://cit.ac.in/",
+      "degrees": [
+        "B.Tech. in Electronics and Communication Engineering"
+      ],
+      "honors": [],
+      "gpa_cumulative": "8.11",
+      "gpa_major": "",
+      "graduation_date": "07/2019"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "Python",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "name": "Machine Learning",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "Django",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "SQL",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "name": "Machine Learning",
+      "summary": "Exploring modern machine learning algorithms and real-world AI applications.",
+      "images": []
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
+      "name": "Web Development",
+      "summary": "Building modern web applications using Django, Flask, HTML, CSS, and JavaScript.",
+      "images": []
+    },
+    {
+      "name": "Reading",
+      "summary": "Reading books related to technology, AI, and personal development.",
+      "images": []
+    },
+    {
+      "name": "Travelling",
+      "summary": "Exploring new places and experiencing different cultures.",
+      "images": []
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Professional Proficiency"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Hindi",
+      "fluency": "Professional Proficiency"
+    },
+    {
+      "language": "Assamese",
+      "fluency": "Professional Proficiency"
+    },
+    {
+      "language": "Nepali",
+      "fluency": "Professional Proficiency"
     }
   ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
-  ]
+  "references": []
 }
