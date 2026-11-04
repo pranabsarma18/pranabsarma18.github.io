@@ -282,7 +282,7 @@
               <ul class="interests-list">
               {% for interest in interests %}
                 <li>
-                  <h3>{{ interest.name }}</h3>
+                  <h3 class="interest-name">{{ interest.name }}</h3>
                   {% if interest.summary %}<p>{{ interest.summary }}</p>{% endif %}
                   {% if interest.project_url %}
                     <p>Recent project: <a href="{{ interest.project_url }}">{{ interest.project_title }}</a></p>

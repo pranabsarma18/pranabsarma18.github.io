@@ -267,6 +267,10 @@ aside li {
   margin-bottom: 0.5rem;
 }
 
+.interest-name {
+  display: inline;
+}
+
 .unstyled-list {
   list-style: none;
 }
