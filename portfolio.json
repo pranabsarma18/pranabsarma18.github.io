@@ -182,6 +182,13 @@
       "name": "Travelling",
       "summary": "Exploring new places and experiencing different cultures.",
       "images": []
+    },
+    {
+      "name": "Raspberry Pi",
+      "summary": "I enjoy exploring Raspberry Pi and building practical projects with it.",
+      "project_title": "Train Notification",
+      "project_url": "https://github.com/pranabsarma18/train-notification",
+      "images": []
     }
   ],
   "languages": [

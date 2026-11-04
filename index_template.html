@@ -272,7 +272,7 @@
                 {% for language in languages %}
                   {{ language }}{% if not loop.last %}, {% endif %}
                 {% endfor %}
-              </ul>
+              </p>
             </section>
           {% endif %}
 
@@ -283,6 +283,9 @@
                 <section>
                   <h3>{{ interest.name }}</h3>
                   {% if interest.summary %}<p>{{ interest.summary }}</p>{% endif %}
+                  {% if interest.project_url %}
+                    <p>Recent project: <a href="{{ interest.project_url }}">{{ interest.project_title }}</a></p>
+                  {% endif %}
                   {% if interest.images %}
                     <div class="gallery side-gallery">
                       {% for img in interest.images %}
