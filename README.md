@@ -1,6 +1,6 @@
 # Pranab Sarma Portfolio
 
-This repository contains the source and generated files for [Pranab Sarma's portfolio](https://pranabsarma.me). It publishes a portfolio page and a resume page as static HTML. Both pages are generated from the same JSON data file, so profile and experience details stay consistent.
+This repository contains the source and generated files for [Pranab Sarma's portfolio](https://pranabsarma18.github.io/). It publishes a portfolio page and a resume page as static HTML. Both pages are generated from the same JSON data file, so profile and experience details stay consistent.
 
 ## Features
 
