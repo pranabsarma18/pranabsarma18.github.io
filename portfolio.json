@@ -164,13 +164,13 @@
   ],
   "interests": [
     {
-      "name": "Machine Learning",
-      "summary": "Exploring modern machine learning algorithms and real-world AI applications.",
+      "name": "Web Development",
+      "summary": "Building modern web applications using Django, Flask, HTML, CSS, and JavaScript.",
       "images": []
     },
     {
-      "name": "Web Development",
-      "summary": "Building modern web applications using Django, Flask, HTML, CSS, and JavaScript.",
+      "name": "Machine Learning",
+      "summary": "Exploring modern machine learning algorithms and real-world AI applications.",
       "images": []
     },
     {
@@ -185,22 +185,10 @@
     }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Professional Proficiency"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Professional Proficiency"
-    },
-    {
-      "language": "Assamese",
-      "fluency": "Professional Proficiency"
-    },
-    {
-      "language": "Nepali",
-      "fluency": "Professional Proficiency"
-    }
+    "English",
+    "Hindi",
+    "Assamese",
+    "Nepali"
   ],
   "references": []
 }

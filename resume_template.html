@@ -142,12 +142,9 @@
           {% if languages %}
             <section>
               <h2 class="section-heading">Languages</h2>
-              <ul class="unstyled-list">
-                {% for lang in languages %}
-                  <li>
-                    <h3>{{ lang.language }}</h3>
-                    <p class="section-label">{{ lang.fluency }}</p>
-                  </li>
+              <p class="languages-list">
+                {% for language in languages %}
+                  {{ language }}{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </ul>
             </section>
