@@ -155,36 +155,12 @@
     }
   ],
   "skills": [
-    {
-      "name": "Python",
-      "proficiency": 80,
-      "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "Machine Learning",
-      "proficiency": 75,
-      "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "Django",
-      "proficiency": 75,
-      "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "SQL",
-      "proficiency": 75,
-      "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "PostgreSQL",
-      "proficiency": 75,
-      "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "JavaScript",
-      "proficiency": 75,
-      "proficiency_label": "Intermediate"
-    }
+    "Python",
+    "Machine Learning",
+    "Django",
+    "SQL",
+    "PostgreSQL",
+    "JavaScript"
   ],
   "interests": [
     {

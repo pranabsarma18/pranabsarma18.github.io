@@ -257,22 +257,11 @@
           {% if skills %}
             <section>
               <h2 class="section-heading">Skills</h2>
-              <ul class="unstyled-list">
+              <p class="skills-list">
                 {% for skill in skills %}
-                  <li>
-                    <h3>{{ skill.name }}</h3>
-                    <div class="skill-bar">
-                      <div class="skill-bar-fill w-{{ skill.proficiency }}"
-                           role="meter"
-                           aria-valuenow="{{ skill.proficiency }}"
-                           aria-valuemin="0"
-                           aria-valuemax="100">
-                        <span class="skill-bar-label">{{ skill.proficiency_label }}</span>
-                      </div>
-                    </div>
-                  </li>
+                  {{ skill }}{% if not loop.last %}, {% endif %}
                 {% endfor %}
-              </ul>
+              </p>
             </section>
           {% endif %}
 
