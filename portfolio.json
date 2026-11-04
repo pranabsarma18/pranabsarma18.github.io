@@ -1,9 +1,9 @@
 {
   "name": "Pranab Sarma",
-  "label": "AI Engineer | Web Developer",
+  "label": "Python Web Developer | AI/ML Enthusiast",
   "image_path": "portfolio_media/profile.png",
   "contact": {
-    "email": "pranavirat12@gmail.com",
+    "email": "pranabsarma.tech@gmail.com",
     "phone": "+91 8473878216",
     "location": "Kokrajhar, Assam, India"
   },
@@ -23,7 +23,7 @@
   "work_experience": [
     {
       "company": "Directorate of Technical Education, Assam",
-      "position": "Junior Technical Assistant",
+      "position": "Junior Assistant",
       "url": "https://dte.assam.gov.in/",
       "start_date": "06/2023",
       "end_date": "Present",
@@ -178,13 +178,6 @@
     {
       "name": "Travelling",
       "summary": "Exploring new places and experiencing different cultures.",
-      "images": []
-    },
-    {
-      "name": "Raspberry Pi",
-      "summary": "I enjoy exploring Raspberry Pi and building practical projects with it.",
-      "project_title": "Train Notification",
-      "project_url": "https://github.com/pranabsarma18/train-notification",
       "images": []
     }
   ],
